@@ -1,6 +1,9 @@
 ### Zé badiu, eh modi?👨🏾‍💻
 # 你好！ Heyy, I'm Willy 🤙🏾
 
+<a href="https://github.com/wjj28/wjj28">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wjj28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
+</a>
 <!--
 **wjj28/wjj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +18,11 @@ Here are some ideas to get you started:-->
 
 
 - 📫 How to reach me:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wjj28)](https://github.com/wjj28) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.cn/injobs/in/willylima28/)](https://www.linkedin.cn/injobs/in/willylima28/) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://stackoverflow.com/users/13074315/will28)](https://stackoverflow.com/users/13074315/will28) 
 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/wjj28) 
-             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.cn/injobs/in/willylima28/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13074315/will28)  
+
 
 
 
