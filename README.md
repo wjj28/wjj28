@@ -1,4 +1,5 @@
-### Zé badiu, eh modi?👨🏾‍💻 你好！ Heyy I'm Willy 🤙🏾
+### Zé badiu, eh modi?👨🏾‍💻
+# 你好！ Heyy I'm Willy 🤙🏾
 
 <!--
 **wjj28/wjj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
