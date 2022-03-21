@@ -10,13 +10,10 @@
 
 - 📫 How to reach me: <br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wjj28)](https://github.com/wjj28) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.cn/injobs/in/willylima28/)](https://www.linkedin.cn/injobs/in/willylima28/) 
-<a href="https://stackoverflow.com/users/13074315/will28">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.cn/injobs/in/willylima28/)](https://www.linkedin.cn/injobs/in/willylima28/) <a href="https://stackoverflow.com/users/13074315/will28">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F47F24">
                                                         <!-- ^ Change this to your reputation -->
 </a>
-
-[![Stackoverflow Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://stackoverflow.com/users/13074315/will28)](https://stackoverflow.com/users/13074315/will28) 
 
 
 <a href="https://github.com/wjj28/wjj28">
