@@ -16,8 +16,7 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="wjj28" />
 
  <img align="center" src= "https://github-readme-stats.vercel.app/api?username=wjj28&theme=github_dark&show_icons=true" />
-<br>
-<br>
+
 <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
 <a href="https://linkedin.com/in/willylima28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willylima28" height="30" width="40" /></a>
