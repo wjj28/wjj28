@@ -13,7 +13,7 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
 <!-- GitHub Stats -->
 ## &#x1f4c8; GitHub Stat$
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="wjj28" /> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="wjj28" /> 
  <p>
 
  <img align="center" src= "https://github-readme-stats.vercel.app/api?username=wjj28&theme=github_dark&show_icons=true" />
