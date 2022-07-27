@@ -15,8 +15,8 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
 
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="wjj28" />
 
- ![Willy Lim@ GitHub stats](https://github-readme-stats.vercel.app/api?username=wjj28&theme=github_dark&show_icons=true)
-
+ <img align="center" style="margin:0.5rem" src= "https://github-readme-stats.vercel.app/api?username=wjj28&theme=github_dark&show_icons=true" />
+<br>
 <br>
 <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
