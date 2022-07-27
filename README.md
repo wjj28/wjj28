@@ -11,6 +11,7 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
 
 
 <!-- GitHub Stats -->
+
 ## &#x1f4c8; GitHub Stat$
  <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="wjj28" /> 
@@ -18,9 +19,9 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
 
 </p>
 
-</a>
-  <br>
-<h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
+
+
+## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
 <a href="https://linkedin.com/in/willylima28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willylima28" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/will28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>
