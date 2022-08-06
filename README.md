@@ -19,9 +19,20 @@ I’m Willy 威利, a Computer Scientist grad passionate about app development a
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
-<a href="https://linkedin.com/in/willylima28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willylima28" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/will28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>
-<a href="https://twitter.com/wjj288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wjj288" height="30" width="40" /></a>
+ <!--Linkedin --> 
+<a href="https://linkedin.com/in/willylima28" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+ <!--Twitter --> 
+<a href="https://twitter.com/wjj288" target="blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  
+ <!--StackOverflow --> 
+<a href="https://stackoverflow.com/users/will28" target="blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+
+<!--StackOverflow / #ef8236  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>-->
+
 </p>
 
 
