@@ -1,8 +1,4 @@
-<h1 align="center"> Ｈｅｙ ｔｈｅｒｅ 👨🏾‍💻  
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />I’m Willy 威利 </h1>
+<h1 align="center"> Ｈｅｙ ｔｈｅｒｅ 👨🏾‍💻  Willy 威利 here</h1>
  
  I'm a CS passionate about app development and computer vision.
 
