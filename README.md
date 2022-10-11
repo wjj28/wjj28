@@ -17,12 +17,6 @@
 
 
 
-<!-- GitHub Stats -->
-## &#x1f4c8; GitHub Stat$
-| <a href="https://github.com/wjj28/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjj28&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Willy's github stats" /></a> | <a href="https://github.com/wjj28/github-readme-stats"><img align="right" src= "https://github-readme-stats.vercel.app/api?username=wjj28&theme=github_dark&show_icons=true" /></a> |
-| ------------- | ------------- |
-
-
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
