@@ -15,11 +15,26 @@
 </a> </p>
 
 
-## <h3 align="center"> Ｓｏｍｅ　ｏｆ　ｍｙ　ｐｏｓｔｓ</h3>
+## <h3 align="center"> Ｓｏｍｅ　ｏｆ　ｍｙ　ｐｏｓｔｓ　 ｏｎ</h3>
 <p align="center">
- <!--Linkedin --> 
+
 <a href="https://medium.com/@wjj288" target="blank">
 <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" height="40" width="100" />
+<p>
+
+<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
+Python for Scientific Calculation - From Zero: Python installation
+
+<p>
+<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
+Python for Scientific Calculation - From Zero: Jupyter Notebook Installation via Anaconda
+
+<p>
+<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
+Python for Scientific Calculation - Python Basics: Datatypes
+
+
+
 
 
 
