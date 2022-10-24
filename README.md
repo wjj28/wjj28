@@ -34,6 +34,10 @@ Python for Scientific Calculation - From Zero: Jupyter Notebook Installation via
 Python for Scientific Calculation - Python Basics: Datatypes
 
 
+<p>
+<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
+Python for Scientific Calculation - Python Basics: Operators
+
 
 
 
