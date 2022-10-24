@@ -15,28 +15,41 @@
 </a> </p>
 
 
-## <h3 align="center"> Ｓｏｍｅ　ｏｆ　ｍｙ　ｐｏｓｔｓ　 ｏｎ</h3>
-<p align="center">
+ 
+ <br>
+ <h3>📔My Blog posts on <em>Scientific Calculation </em> with Python on<a href="https://medium.com/@wjj288" target="blank">  Medium</a>
+ 
+  
+<!-- <p align="center"> -->
 
-<a href="https://medium.com/@wjj288" target="blank">
-<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" height="40" width="100" />
-<p>
-
+<!--  <a href="https://medium.com/@wjj288" target="blank">
+<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" height="40" width="100" /> -->
+<hr>
 <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
 Python for Scientific Calculation - From Zero: Python installation
-
 <p>
-<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
+ <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
 Python for Scientific Calculation - From Zero: Jupyter Notebook Installation via Anaconda
-
-<p>
+<br>
 <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
 Python for Scientific Calculation - Python Basics: Datatypes
 
-
-<p>
+<br>
 <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
-Python for Scientific Calculation - Python Basics: Operators
+Python for Scientific Calculation - Python Basics: Operators 
+<!--  
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/3">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/3" width="100%" alt="From Zero: Python installation"> 
+  
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/2">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/2" width="100%" alt="From Zero: Jupyter Notebook Installation via Anacondas"> 
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/1">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/1" width="100%" alt="Python Basics: Datatypes"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/0">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/0" width="100%" alt="Python Basics: Operators">  -->
 
 
 
@@ -55,6 +68,10 @@ Python for Scientific Calculation - Python Basics: Operators
  <!--StackOverflow --> 
 <a href="https://stackoverflow.com/users/13074315/will28" target="blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+ 
+ 
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/> 
+ <hr>
 
 <!--StackOverflow / #ef8236  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>-->
 
