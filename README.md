@@ -1,8 +1,8 @@
 <h1 align="center"> Ｈｅｙ ｔｈｅｒｅ 👨🏾‍💻  Willy 威利 here</h1>
  
- I'm a Computer Scientist passionate about app development and computer vision.
+ <h3> I'm a Computer Scientist passionate about app development and computer vision. </h3>
 
-- 🌱 I am diving deeper into Flutter & Machine Learning
+<h4> - 🌱 I am diving deeper into Flutter & Machine Learning  </h4>
 
 </a>
 
@@ -15,44 +15,23 @@
 </a> </p>
 
 
+<hr>
+ 
+ <img align="right" src="https://user-images.githubusercontent.com/39323686/197477135-f785e264-71d3-407c-9b1d-d143fe107151.jpg" width="350" height="220" />
+  <p> <h3>📔My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
+
+- **Python for Scientific Calculation**
+    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
+From Zero: Python installation <a>
+    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
+Jupyter Notebook Installation via Anaconda<a>
+    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
+Python Basics: Datatypes <a>
+    - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
+ Python Basics: Operators<a>  
+
  
  <br>
- <h3>📔My Blog posts on <em>Scientific Calculation </em> with Python on<a href="https://medium.com/@wjj288" target="blank">  Medium</a>
- 
-  
-<!-- <p align="center"> -->
-
-<!--  <a href="https://medium.com/@wjj288" target="blank">
-<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" height="40" width="100" /> -->
-<hr>
-<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
-Python for Scientific Calculation - From Zero: Python installation
-<p>
- <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
-Python for Scientific Calculation - From Zero: Jupyter Notebook Installation via Anaconda
-<br>
-<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
-Python for Scientific Calculation - Python Basics: Datatypes
-
-<br>
-<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
-Python for Scientific Calculation - Python Basics: Operators 
-<!--  
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/3">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/3" width="100%" alt="From Zero: Python installation"> 
-  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/2">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/2" width="100%" alt="From Zero: Jupyter Notebook Installation via Anacondas"> 
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/1">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/1" width="100%" alt="Python Basics: Datatypes"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/0">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wjj288/0" width="100%" alt="Python Basics: Operators">  -->
-
-
-
 
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
