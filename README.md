@@ -36,20 +36,26 @@ Python Basics: Datatypes <a>
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
+
  <!--Linkedin --> 
 <a href="https://linkedin.com/in/willylima28" target="blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
+ 
  <!--Twitter --> 
 <a href="https://twitter.com/wjj288" target="blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><a>
+  
+<!--Medium --> 
+<a href="https://medium.com/@wjj288" target="blank">
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/><a>
   
  <!--StackOverflow --> 
 <a href="https://stackoverflow.com/users/13074315/will28" target="blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+<img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /><a>
  
  
-  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/> 
+
  <hr>
 
 <!--StackOverflow / #ef8236  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>-->
