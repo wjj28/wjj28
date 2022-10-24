@@ -24,7 +24,7 @@
     - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
 From Zero: Python installation <a>
     - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
-Jupyter Notebook Installation via Anaconda<a>
+Jupyter Notebook installation via Anaconda<a>
     - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
 Python Basics: Datatypes <a>
     - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
