@@ -28,7 +28,10 @@ Jupyter Notebook installation via Anaconda<a>
     - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
 Python Basics: Datatypes <a>
     - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
- Python Basics: Operators<a>  
+ Python Basics: Operators<a>   
+   - **📘**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
+ LaTeX🤝🏾Jupyter Notebook<a>  
+
 
  
  <br>
