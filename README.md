@@ -1,11 +1,19 @@
 <h1 align="center"> Ｈｅｙ ｔｈｅｒｅ 👨🏾‍💻  Willy 威利 here</h1>
  
- <h3> I'm a Computer Scientist passionate about app development and computer vision. </h3>
+
+
+<!--  ![profile_pic_github_2](https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png) -->
+
+ <img align="left" src="https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png" width="360" height="360" />
+
+
+<h3> I'm a Computer Scientist passionate about app development and computer vision. </h3>
 
 <h4> - 🌱 I am diving deeper into Flutter & Machine Learning  </h4>
 
 </a>
-
+<br>
+<hr>
 <h3 align="center">Mｙ ｔｏ０ｌｓ:</h3>
 
 <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -17,10 +25,12 @@
 
 <hr>
  
- <img align="right" src="https://user-images.githubusercontent.com/39323686/197477135-f785e264-71d3-407c-9b1d-d143fe107151.jpg" width="350" height="260" />
-  <p> <h3>📔My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
+<br>
+ <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="260" />
 
-- **Python for Scientific Calculation📚**
+  <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
+
+- **Python for Scientific Calculation**
     - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
 From Zero: Python installation <a>
     - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
@@ -37,7 +47,7 @@ Python Basics: Datatypes <a>
 
 
  
- <br>
+ 
 
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
