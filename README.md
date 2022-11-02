@@ -17,20 +17,23 @@
 
 <hr>
  
- <img align="right" src="https://user-images.githubusercontent.com/39323686/197477135-f785e264-71d3-407c-9b1d-d143fe107151.jpg" width="350" height="220" />
+ <img align="right" src="https://user-images.githubusercontent.com/39323686/197477135-f785e264-71d3-407c-9b1d-d143fe107151.jpg" width="350" height="260" />
   <p> <h3>📔My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
 
-- **Python for Scientific Calculation**
-    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
+- **Python for Scientific Calculation📚**
+    - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
 From Zero: Python installation <a>
-    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
+    - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
 Jupyter Notebook installation via Anaconda<a>
     - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
 Python Basics: Datatypes <a>
     - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
- Python Basics: Operators<a>   
-   - **📘**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
+ Python Basics: Operators<a>
+   - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2">
+ Python Basics: Conditional Statements (if/elif/else) <a> 
+   - **📙**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
  LaTeX🤝🏾Jupyter Notebook<a>  
+
 
 
  
