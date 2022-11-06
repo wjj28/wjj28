@@ -9,10 +9,12 @@
 
 <h3 align="center"> I'm a Computer Scientist passionate about app development and computer vision. </h3>
 
-<h3 align="center"> 🤿🌊  I am diving deeper into Flutter & Machine Learning  </h4>
+<h3 align="center"> 🤿🌊  I am diving deeper into Flutter & Machine Learning  </h3>
 
 </a>
-<br>
+
+<h3 align="center"> Find me on: </h3>
+
 <hr>
 <h3 align="center">⚒Mｙ ｔｏ０ｌｓ:</h3>
 
@@ -53,6 +55,12 @@ Python Basics: Datatypes <a>
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wjj28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
  
+
+![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
