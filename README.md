@@ -7,14 +7,14 @@
  <img align="left" src="https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png" width="360" height="360" />
 
 
-<h3> I'm a Computer Scientist passionate about app development and computer vision. </h3>
+<h3 align="center"> I'm a Computer Scientist passionate about app development and computer vision. </h3>
 
-<h4> - 🌱 I am diving deeper into Flutter & Machine Learning  </h4>
+<h3 align="center"> 🤿🌊  I am diving deeper into Flutter & Machine Learning  </h4>
 
 </a>
 <br>
 <hr>
-<h3 align="center">Mｙ ｔｏ０ｌｓ:</h3>
+<h3 align="center">⚒Mｙ ｔｏ０ｌｓ:</h3>
 
 <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
