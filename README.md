@@ -13,9 +13,10 @@
 
 </a>
 
-<h3 align="center"> Find me on: </h3>
-<p align="left">
- <a href="https://discord.gg/ysqkcGjn" style="margin-left:100px;" target="blank"><img align="center" src="socials/discord.png" title = "Twitter" alt="" height="120" width="100"/></a> <a href="https://twitter.com/wjj288" align="center" target="blank"><img align="right" src="socials/twitter.png" title = "Twitter" alt="" height="40"/></a>
+<h3 align="right"> Find me on: </h3>
+<p align="left"> 
+ <a href="https://discord.gg/ysqkcGjn" style="margin-left:100px;" target="blank"><img align="center" src="socials/discord.png" title = "Twitter" alt="" height="120" width="100"/></a>
+ <a href="https://twitter.com/wjj288" align="center" target="blank"><img align="right" src="socials/twitter.png" title = "Twitter" alt="" height="40"/></a>
  <a href="https://linkedin.com/in/willylima28" target="blank"><img align="right" src="socials/linkedin.png" title = "Linkedin" alt="" height="40"/></a>
   <a href="https://stackoverflow.com/users/13074315/will28" target="blank"><img align="right" src="socials/stackoverflow.png" title = "Stackoverflow" alt="" height="40"/></a>
 
@@ -65,6 +66,7 @@ Python Basics: Datatypes <a>
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wjj28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
  
+ <hr>
 
 ![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
 
@@ -72,39 +74,25 @@ Python Basics: Datatypes <a>
 
 
 
-
+<!-- 
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
 
  <!--Linkedin --> 
-<a href="https://linkedin.com/in/willylima28" target="blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
+<!-- <a href="https://linkedin.com/in/willylima28" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a> -->
 
  
  <!--Twitter --> 
-<a href="https://twitter.com/wjj288" target="blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><a>
+<!-- <a href="https://twitter.com/wjj288" target="blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><a> -->
   
 <!--Medium --> 
-<a href="https://medium.com/@wjj288" target="blank">
-  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/><a>
+<!-- <a href="https://medium.com/@wjj288" target="blank">
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/><a> -->
   
  <!--StackOverflow --> 
-<a href="https://stackoverflow.com/users/13074315/will28" target="blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /><a>
+<!-- <a href="https://stackoverflow.com/users/13074315/will28" target="blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23EF8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /><a> -->
+
  
- 
-
- <hr>
-
-<!--StackOverflow / #ef8236  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="will28" height="30" width="40" /></a>-->
-
-</p>
-
-
-
-
-
-
-
-
