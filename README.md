@@ -4,7 +4,7 @@
 
 <!--  ![profile_pic_github_2](https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png) -->
 
- <img align="left" src="https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png" width="460" height="460" />
+ <img align="left" src="https://user-images.githubusercontent.com/39323686/199464328-795d501d-1de2-4694-8be6-6787e58a5eef.png" width="400" height="460" />
 
 
 <h3 align="center"> I'm a Computer Scientist passionate about app development and computer vision. </h3>
