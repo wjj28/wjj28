@@ -40,23 +40,25 @@
 <hr>
  
 <br>
- <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="260" />
+ <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="360" />
 
   <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
 
 - **Python for Scientific Calculation**
-    - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">
-From Zero: Python installation <a>
-    - **📕** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae">
-Jupyter Notebook installation via Anaconda<a>
-    - **📘** <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43">
-Python Basics: Datatypes <a>
-    - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">
- Python Basics: Operators<a>
-   - **📘**<a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2">
- Python Basics: Conditional Statements (if/elif/else) <a> 
    - **📙**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
  LaTeX🤝🏾Jupyter Notebook<a>  
+ 
+    - **📕**Installation:
+       - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">From Zero: Python installation <a>
+       - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae"> Jupyter Notebook installation via Anaconda<a>
+ 
+     - **📘**Python Basics:
+        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43"> Datatypes <a>
+        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">Operators<a>
+        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2"> Conditional Statements (if/elif/else) <a> 
+        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149">Lists, Tuples & Dictionaries <a>
+
+
 
 <!-- 
 <summary>:zap: GitHub Statitics</summary>
