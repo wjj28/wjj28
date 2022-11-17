@@ -57,6 +57,8 @@
         - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">Operators<a>
         - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2"> Conditional Statements (if/elif/else) <a> 
         - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149">Lists, Tuples & Dictionaries <a>
+        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vii-6b8901b4e405">Functions <a>
+
 
 
 
