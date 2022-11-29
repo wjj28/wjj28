@@ -45,8 +45,11 @@
   <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
 
 - **Python for Scientific Calculation**
-   - **📙**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
+    - **📙**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
  LaTeX🤝🏾Jupyter Notebook<a>  
+   - **📙**<a href = "https://medium.com/@wjj288/matplotlib-for-researchers-49de840e8cd5">
+ MatPlotLib: A visualization library 📚<a>  
+
  
     - **📕**Installation:
        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">From Zero: Python installation <a>
