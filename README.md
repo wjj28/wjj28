@@ -15,7 +15,7 @@
 
 <h3 align="right"> Find me on: </h3>
 <p align="left"> 
- <a href="https://discord.gg/ysqkcGjn" style="margin-left:100px;" target="blank"><img align="center" src="socials/discord.png" title = "My Discord Server" alt="" height="100" width="100"/></a>
+ <a href="https://discord.gg/agZTekUD" style="margin-left:100px;" target="blank"><img align="center" src="socials/discord.png" title = "My Discord Server" alt="" height="100" width="100"/></a>
  <a href="https://twitter.com/wjj288" align="center" target="blank"><img align="right" src="socials/twitter.png" title = "Twitter" alt="" height="40"/></a>
  <a href="https://linkedin.com/in/willylima28" target="blank"><img align="right" src="socials/linkedin.png" title = "Linkedin" alt="" height="40"/></a>
   <a href="https://stackoverflow.com/users/13074315/will28" target="blank"><img align="right" src="socials/stackoverflow.png" title = "Stackoverflow" alt="" height="40"/></a>
