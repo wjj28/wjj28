@@ -45,26 +45,29 @@
   <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
 
 - **Python for Scientific Calculation**
-    - **📙**<a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">
- LaTeX🤝🏾Jupyter Notebook<a>  
-   - **📙**<a href = "https://medium.com/@wjj288/matplotlib-for-researchers-49de840e8cd5">
- MatPlotLib: A visualization library 📚<a>  
+<details><summary> 📙 Research in Python🐍</summary> 
+    <summary><a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">LaTeX🤝🏾Jupyter Notebook</a> </summary>
+    <summary><a href = "https://medium.com/@wjj288/matplotlib-for-researchers-49de840e8cd5">MatPlotLib: A visualization library📚</a></summary>
+ </details>
 
- 
-    - **📕**Installation:
-       - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">From Zero: Python installation <a>
-       - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae"> Jupyter Notebook installation via Anaconda<a>
- 
-     - **📘**Python Basics:
-        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43"> Datatypes <a>
-        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">Operators<a>
-        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2"> Conditional Statements (if/elif/else) <a> 
-        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149">Lists, Tuples & Dictionaries <a>
-        - <a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vii-6b8901b4e405">Functions <a>
+ <details><summary> 📕 Software Installation</summary> 
+        <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">From Zero: Python installation </a></summary>
+        <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae"> Jupyter Notebook installation via Anaconda</a></summary>
+   </details>
+
+   <details><summary> 📘 Python Basics</summary> 
+          <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43"> Datatypes </a> </summary>
+         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">Operators</a></summary> 
+         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2"> Conditional Statements (if/elif/else) </a></summary> 
+         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149">Lists, Tuples & Dictionaries </a></summary> 
+         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vii-6b8901b4e405">Functions </a></summary> 
+   </details>
+
+     
+<br>
 
 
-
-
+    
 <!-- 
 <summary>:zap: GitHub Statitics</summary>
 
