@@ -40,33 +40,51 @@
 <hr>
  
 <br>
- <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="360" />
+ <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="350" />
 
   <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
 
-- **Python for Scientific Calculation**
-<details><summary> 📙 Research in Python🐍</summary> 
-    <summary><a href = "https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8">LaTeX🤝🏾Jupyter Notebook</a> </summary>
-    <summary><a href = "https://medium.com/@wjj288/matplotlib-for-researchers-49de840e8cd5">MatPlotLib: A visualization library📚</a></summary>
+## Python for Scientific Calculation👨🏿‍🏫
+<details>
+<summary> 📙 Research in Python🐍</summary> 
+
+ - [LaTeX🤝🏾Jupyter Notebook](https://medium.com/@wjj288/latex-jupyter-notebook-3d82e675c4c8)
+ - [MatPlotLib: A visualization library📚](https://medium.com/@wjj288/matplotlib-for-researchers-49de840e8cd5)
  </details>
 
- <details><summary> 📕 Software Installation</summary> 
-        <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4">From Zero: Python installation </a></summary>
-        <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae"> Jupyter Notebook installation via Anaconda</a></summary>
-   </details>
+ <details>
+ <summary> 📕 Software Installation</summary> 
+ 
+  - [From Zero: Python installation](https://medium.com/@wjj288/python-for-scientific-calculation-i-5a9227924db4)
+  - [Jupyter Notebook installation via Anaconda](https://medium.com/@wjj288/python-for-scientific-calculation-ii-dc535c5fa0ae)
+ </details>
 
-   <details><summary> 📘 Python Basics</summary> 
-          <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43"> Datatypes </a> </summary>
-         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6">Operators</a></summary> 
-         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2"> Conditional Statements (if/elif/else) </a></summary> 
-         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149">Lists, Tuples & Dictionaries </a></summary> 
-         <summary><a href = "https://medium.com/@wjj288/python-for-scientific-calculation-vii-6b8901b4e405">Functions </a></summary> 
-   </details>
+<details>
+ <summary> 📘 Python Basics</summary> 
+ 
+   - [Datatypes](https://medium.com/@wjj288/python-for-scientific-calculation-29df12514b43)
+   - [Operators](https://medium.com/@wjj288/python-for-scientific-calculation-iv-857464913bc6)
+   - [Conditional Statements (if/elif/else) ](https://medium.com/@wjj288/python-for-scientific-calculation-v-1ac5a62421f2)
+   - [Lists, Tuples & Dictionaries ](https://medium.com/@wjj288/python-for-scientific-calculation-vi-f22780eb2149)
+   - [Functions](https://medium.com/@wjj288/python-for-scientific-calculation-vii-6b8901b4e405)
+ </details>
+ 
+ #Python #JupyterNotebook #ScientificProgramming #JupyterLab #Research
 
-     
+
+
+<!-- <details open>
+<summary>Hotwire 🔥</summary>
 <br>
+  
+- [Turbo](https://turbo.hotwire.dev/)
+  - [Turbo Drive](https://turbo.hotwire.dev/handbook/drive)
+  - [Turbo Frames](https://turbo.hotwire.dev/handbook/frames)
+  - [Turbo Stream](https://turbo.hotwire.dev/handbook/streams)
+- [Stimulus](https://stimulus.hotwire.dev/)
+- Strada (soon)
 
-
+</details> -->
     
 <!-- 
 <summary>:zap: GitHub Statitics</summary>
