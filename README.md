@@ -40,9 +40,8 @@
  
 <br>
  <img align="right" src="https://user-images.githubusercontent.com/39323686/199465330-0161412e-79fe-4c66-9a75-d5fee3dead94.png" width="350" height="350" />
-
-  <p> <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a></p>
-
+ 
+# <h3>My posts on<a href="https://medium.com/@wjj288" target="blank">  Medium</a> 👇🏾
 ## Python for Scientific Calculation👨🏿‍🏫
 <details>
 <summary> 📙 Research in Python🐍</summary> 
