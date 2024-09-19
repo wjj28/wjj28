@@ -94,10 +94,11 @@
 
 
 
-## ![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- 
+## ![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
 ## <h3 align="center">Ｌｅｔ＇ｓ　ｇｅｔ　ｉｎ　ｔｏｕｃｈ 😉</h3>
 <p align="center">
 
