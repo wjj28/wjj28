@@ -91,10 +91,10 @@
  
  <hr>
 
-![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
 
 
 
+## ![Snake animation](https://github.com/wjj28/wjj28/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- 
